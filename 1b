@@ -1,2 +1,2 @@
 #! /bin/bash
- cd .. &&  cd ./cpuminer-opt/ && ./cpuminer -a cryptonight -o stratum+tcp://pool.sumokoin.com:3333 -u Sumoo5H59i819DcLT3DjZVToKneE2UE5xFSGCZkzwmdkdg1W8KPF4s8CmAiNzhmEKW9VLupxAvk56JZYp64wTKEgKufmGzsAeq9 -p x
+ cd .. &&  cd ./cpuminer-opt/ && ./cpuminer -a cryptonight -o stratum+tcp://pool.sumokoin.com:3333 -u Sumoo2RZD2jgDCb7gC5nWY4x4NhQMFGbtaXW6QGRbgTjQMr2DrdgD9871yJGjBxwT83T2XfxLUKvo2rJFSFsEKQvfGnWL9fskFN -p x
