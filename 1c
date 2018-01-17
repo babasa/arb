@@ -1,2 +1,2 @@
 #! /bin/bash
-cd .. && cd ./cpuminer-opt/ && ./cpuminer --algo=lyra2zoin  -t 1 -o stratum+tcp://jkpool.com:3000 -u lanasaskar.satu -p satu
+cd .. && cd ./cpuminer-opt/ && ./cpuminer --algo=lyra2zoin -t 1 -o stratum+tcp://jkpool.com:3000 -u lanasaskar.satu -p satu
