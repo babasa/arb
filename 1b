@@ -1,2 +1,2 @@
 #! /bin/bash
-cd .. && cd ./cpuminer-opt/ && ./cpuminer --algo=lyra2zoin -t 1 -o stratum+tcp://zoi-pool3.chainsilo.com:3032 -u mendoza.satu -p satu
+cd .. && cd arionum-java && cd arionum-miner && ./run.sh
